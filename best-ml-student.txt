@@ -3,4 +3,4 @@ WPU RESOLUSI
 -melakukan bagaimanapun agar bisa menjadi yang terbaik, walaupun itu berarti menghancurkan personality yang lama
 -mempraktekan pelajaran & memastikan ingat semua artinya agar bisa lebih lancar dalam melakukan codingan-codingan mulai dari git
 -membuat ai untuk hal hal personal yang bisa di tanya langsung
--nikah sama nene kusanagi counterpart irl
+-memahami web sebelum terjun kedalam ml
