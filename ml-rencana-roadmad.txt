@@ -1,8 +1,14 @@
 RENCANA ROADMAP
 -NYELESAIN BELAJAR GITHUB
 *branching
+ >brancing use for
+  -making snapshot without ruining the main branch (master branch)
+  -to experiment on certain fiture
+  -if its like for a collab and you need two person for one project to do the same thing
 *check insight
 -NYELESAIN BELAJAR GIT
 -PINDAH KE VSCODE
 -PINDAH KE PYTHON
+ >udah belajar awal tetapi perlu di ulang lagi
 -CARI BACKEND
+-CARI DATABASE
